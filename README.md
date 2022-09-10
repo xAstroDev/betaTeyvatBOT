@@ -37,7 +37,7 @@ There are easy tools available to allow users to contribute their own markers or
 
 This project is open source. [Issues](https://github.com/Teyvat-Moe/teyvat.moe/issues) and [pull requests](https://github.com/Teyvat-Moe/teyvat.moe/pulls) are welcome and highly appreciated.
 
-## Why Teyvat.moe?
+## Why TeyvatBOT?
 
 There are numerous other interactive maps available, but this map has the edge in the following ways:
 
